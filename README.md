@@ -1,12 +1,12 @@
-<h4> Hello, people! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+<h2> Hello, people! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h2>
 
-<p>My name is Evgeny. Here I share  testing portfolio items developed through courses and personal projects. You are welcome to check out my <a href="https://drive.google.com/file/d/1G7qxWcKc_L4HFBf6dx08b-g855GP3u5r/view?usp=sharing">resume</a>.</p>
+<p>My name is Evgeny. Here I share  testing portfolio items developed through courses and personal projects. You are welcome to check out my <a href="https://drive.google.com/file/d/1G7qxWcKc_L4HFBf6dx08b-g855GP3u5r/view?usp=sharing">resume(Czech)</a>.</p>
 
-<h2>### 👨‍💻 About me:</h2>
+<h3>👨‍💻 About me:</h3>
 
 <p>I am a QA engineer focused on manual testing of web applications and APIs. I completed ISTQB-aligned training and a hands-on manual testing course.  I’m improving my Czech and English skills and plan to learn test automation in the near future.</p>
 
-<h2>Some Tools I Use</h2>
+<h3>Some Tools I Use</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
@@ -24,4 +24,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://bashlogo.com/img/logo/svg/full_colored_dark.svg" title="Bash" alt="Bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
+</p>
+
+
+<h3 align="center">📫 Let’s connect and collaborate!</h3>
+<p align="center">
+  <a href="www.linkedin.com/in/qakuz"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
+  <a href="https://t.me/Kuz_91"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
+  <a href="mailto:qa.kuzone@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
 </p>
