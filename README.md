@@ -1,6 +1,6 @@
 <h2> Hello, people! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h2>
 
-<p>My name is Evgeny. Here I share  testing portfolio items developed through courses and personal projects. You are welcome to check out my <a href="https://drive.google.com/file/d/1G7qxWcKc_L4HFBf6dx08b-g855GP3u5r/view?usp=sharing">resume(Czech)</a>.</p>
+<p>My name is Evgeny. Here I share  testing portfolio items developed through courses and personal projects. You are welcome to check out my <a href="https://drive.google.com/file/d/1YiNqYl5NFi0Q49_9MFfAfbXV_zobWlc9/view?usp=sharing">resume(Czech)</a>.</p>
 
 <h3>👨‍💻 About me:</h3>
 
