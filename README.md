@@ -32,6 +32,7 @@
 <li> <a href="https://github.com/kuzone/Testing-documentation">Testing-Documentation</a> Checklists.Test cases.Bug reports. </li>
 <li> <a href="https://github.com/kuzone/API-Testing">API Testing</a> Postman Collection: REST & SOAP Requests. </li>
 <li> <a href="https://github.com/kuzone/MySQL">MySQL</a> SELECT and JOIN Queries </li>
+<li> <a href="https://github.com/kuzone/Bash">Bash</a> Command list </li>
 </ul>
 
 <h3 align="center">📫 Let’s connect and collaborate!</h3>
