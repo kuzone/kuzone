@@ -1,6 +1,6 @@
-<h2> Hello, people! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h2>
+<h3> Hello, people! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h3>
 
-<p>My name is Evgeny. Here I share  testing portfolio items developed through courses. You are welcome to check out my <a href="https://drive.google.com/file/d/10Ewh3YRV3gkq4twp3LWiBfakQkkvMBe-/view?usp=sharing">resume(Czech)</a>.</p>
+<p>My name is Evgeny. Here I share  testing portfolio items developed through courses. You are welcome to check out my <a href="https://drive.google.com/file/d/1b9rrBSs2IhH8oJ20dSI6LQw0OLGHEu1r/view?usp=sharing">resume(Czech)</a> and <a href="https://drive.google.com/file/d/1JIaGgFdkAy4YGJTXq1Oe2VC7zLwrUvnT/view?usp=sharing">resume(English)</a> </p>
 
 <h3>👨‍💻 About me:</h3>
 
